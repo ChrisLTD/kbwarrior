@@ -34,7 +34,8 @@
         "*://*.reddit.com/*",
         "*://*.github.com/*",
         "*://*.youtube.com/*",
-        "*://*.duckduckgo.com/*"
+        "*://*.duckduckgo.com/*",
+        "*://*.aws.amazon.com/*"
       ],
       "js": ["helpers.js", "content.js"],
       "css": ["content.css"],
