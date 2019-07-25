@@ -33,7 +33,8 @@
         "*://*.twitter.com/*",
         "*://*.reddit.com/*",
         "*://*.github.com/*",
-        "*://*.youtube.com/*"
+        "*://*.youtube.com/*",
+        "*://*.duckduckgo.com/*"
       ],
       "js": ["helpers.js", "content.js"],
       "css": ["content.css"],
