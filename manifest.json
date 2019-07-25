@@ -35,7 +35,12 @@
         "*://*.github.com/*",
         "*://*.youtube.com/*",
         "*://*.duckduckgo.com/*",
-        "*://*.aws.amazon.com/*"
+        "*://*.aws.amazon.com/*",
+        "*://*.discord.com/*",
+        "*://*.slack.com/*",
+        "*://*.live.com/*",
+        "*://*.todoist.com/*",
+        "*://keep.google.com/*"
       ],
       "js": ["helpers.js", "content.js"],
       "css": ["content.css"],
