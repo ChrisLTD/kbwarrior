@@ -40,7 +40,8 @@
         "*://*.slack.com/*",
         "*://*.live.com/*",
         "*://*.todoist.com/*",
-        "*://keep.google.com/*"
+        "*://keep.google.com/*",
+        "*://*.optinmonster.com/*"
       ],
       "js": ["helpers.js", "content.js"],
       "css": ["content.css"],
