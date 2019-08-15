@@ -56,29 +56,29 @@ function handleNavKeys(e) {
         window.scrollTo(0, 0);
       }
       break;
-    case 8: // backspace
-      if (e.shiftKey) {
-        window.history.go(1);
-      } else {
-        window.history.go(-1);
-      }
-      break;
-    case 78: // 'n'
-      h.sendMessage({
-        type: 'tabs',
-        payload: 1
-      });
-      break;
-    case 80: // 'p'
-      h.sendMessage({
-        type: 'tabs',
-        payload: -1
-      });
-      break;
-    case 81: // 'q'
-      h.sendMessage({
-        type: 'close'
-      });
+//     case 8: // backspace
+//       if (e.shiftKey) {
+//         window.history.go(1);
+//       } else {
+//         window.history.go(-1);
+//       }
+//       break;
+//     case 78: // 'n'
+//       h.sendMessage({
+//         type: 'tabs',
+//         payload: 1
+//       });
+//       break;
+//     case 80: // 'p'
+//       h.sendMessage({
+//         type: 'tabs',
+//         payload: -1
+//       });
+//       break;
+//     case 81: // 'q'
+//       h.sendMessage({
+//         type: 'close'
+//       });
   }
 }
 
