@@ -41,7 +41,8 @@
         "*://*.live.com/*",
         "*://*.todoist.com/*",
         "*://keep.google.com/*",
-        "*://*.optinmonster.com/*"
+        "*://*.optinmonster.com/*",
+        "*://*.icloud.com/*"
       ],
       "js": ["helpers.js", "content.js"],
       "css": ["content.css"],
