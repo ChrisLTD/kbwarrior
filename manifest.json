@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "kbwarrior (cpj)",
   "description": "Browse the web like a true keyboard warrior with simple hinting and a few vim-style browsing shortcuts.",
-  "version": "999.4.0",
+  "version": "999.4.1",
   "browser_action": {
     "default_popup": "popup.html",
     "default_title": "kbwarrior"
@@ -40,7 +40,7 @@
         "*://*.slack.com/*",
         "*://*.live.com/*",
         "*://*.todoist.com/*",
-        "*://keep.google.com/*"
+        "*://*.google.com/*"
       ],
       "js": ["helpers.js", "content.js"],
       "css": ["content.css"],
